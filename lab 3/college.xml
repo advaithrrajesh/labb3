@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="college2.xsl" type="text/xsl"?>
+<canteenman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="college1.xsd">
+	<canteen>
+		<cid>1</cid>
+		<name>Mingos</name>
+		<place>Block1</place>
+		<custid>null</custid>
+		<stallid>null</stallid>
+		<inputid>1</inputid>
+	</canteen>
+	<canteen>
+		<cid>1</cid>
+		<name>Mingos</name>
+		<place>Block1</place>
+		<custid>1</custid>
+		<stallid>null</stallid>
+		<inputid>2</inputid>
+	</canteen>
+	<canteen>
+		<cid>1</cid>
+		<name>Mingos</name>
+		<place>Block1</place>
+		<custid>1</custid>
+		<stallid>1</stallid>
+		<inputid>3</inputid>
+	</canteen>
+	<canteen>
+		<cid>1</cid>
+		<name>Mingos</name>
+		<place>Block1</place>
+		<custid>2</custid>
+		<stallid>null</stallid>
+		<inputid>3</inputid>
+	</canteen>
+	<canteen>
+		<cid>1</cid>
+		<name>Mingos</name>
+		<place>Block1</place>
+		<custid>2</custid>
+		<stallid>1</stallid>
+		<inputid>4</inputid>
+	</canteen>
+</canteenman>
